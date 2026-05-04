@@ -23,5 +23,9 @@ content:
         type: select
         options:
           values: [in_progress, draft, published]
+      - name: layout
+        type: text
+        options:
+          default: xml_freshdesk.liquid
       - name: body
         type: rich-text
