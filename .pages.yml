@@ -16,7 +16,7 @@ content:
       - name: author
         type: text
       - name: admin_required
-        type: text
+        type: boolean
       - name: no_pdf
         type: boolean
       - name: status
