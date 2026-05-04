@@ -6,6 +6,7 @@ applies_to: enterprise
 author: Loren Alldrin
 no_pdf: false
 status: published
+layout: xml_freshdesk.liquid
 ---
 ## Overview
 
