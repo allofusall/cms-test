@@ -19,7 +19,7 @@ This is the user guide for the ingestion of "ad hoc" uploaded files. For a conci
 
 To access your site's Ingestion controls, click **Ingestion** in the left-hand menu under the "MANAGE" heading.
 
-![](images/ingestion_file_upload_user_guide/ingestion_file_upload_user_guide-01.png)
+![](media/ingestion_file_upload_user_guide-01.png)
 
 The Ingestion dashboard appears, showing the current status and recent history of Ingestion jobs.
 
