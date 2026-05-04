@@ -9,5 +9,19 @@ content:
         type: string
       - name: description
         type: string
+      - name: tags
+        type: text
+      - name: applies_to
+        type: text
+      - name: author
+        type: text
+      - name: admin_required
+        type: text
+      - name: no_pdf
+        type: boolean
+      - name: status
+        type: select
+        options:
+          values: [in_progress, draft, published]
       - name: body
         type: rich-text
