@@ -4,7 +4,8 @@ description: How to upload files to your site's Ingestion tool.
 tags: "[Content, Ingestion]"
 applies_to: enterprise
 author: Loren Alldrin
-no_pdf: false
+admin_required: true
+no_pdf: true
 status: published
 layout: xml_freshdesk.liquid
 ---
