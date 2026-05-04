@@ -1,17 +1,12 @@
 ---
-title: "## Ingestion File Upload User Guide"
-description: "## How to upload files to your site's Ingestion tool."
+title: Ingestion File Upload User Guide
+description: How to upload files to your site's Ingestion tool.
+tags: "[Content, Ingestion]"
+applies_to: enterprise
+author: Loren Alldrin
+no_pdf: false
+status: published
 ---
----
-
-## tags: [Content, Ingestion]  
-applies_to: [enterprise]  
-author: Loren Alldrin  
-admin_required: 0  
-no_pdf: 0  
-status: published  
-layout: xml_freshdesk.liquid
-
 ## Overview
 
 Stack Internal's content ingestion feature leverages the power of AI to quickly turn your internal documents into high-quality content on your Stack Internal site. This allows you to take static knowledge scattered across your organization and make it dynamic, accessible content your users can easily locate and integrate into their workflows.
