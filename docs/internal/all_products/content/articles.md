@@ -1,7 +1,7 @@
 ---
 title: Articles
 description: All about creating content in long-form, standalone articles.
-tags: Articles, Stuff
+tags: "[Articles, Stuff]"
 applies_to: "[business,enterprise]"
 author: Joel Bradley
 admin_required: true
