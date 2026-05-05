@@ -43,7 +43,7 @@ You can search for articles by type, by including the type as if it were a tag. 
 
 When you click on an article to view it, Stack Overflow Internal displays helpful information and statistics about the article. This includes the date the author wrote it, when it was last edited, how many times users have viewed the article, and the approximate time it will take to read.
 
-![](/public/images/internal/all_products/content/articles.md/articles-01.png)
+![Article overview](/public/images/internal/all_products/content/articles.md/articles-01.png)
 
 The article view also shows the tags associated with the article and the avatar of the author. If the article's author is a subject matter expert in any of the associated tags, you'll see "Article authored by a subject matter expert in [tag]" above the article title. When you see this line, you'll know the article was written by a user recognized for their knowledge of the topic.
 
