@@ -59,7 +59,7 @@ The article Timeline page shows the date of each edit, who performed it, and a c
 
 To see the actual edits performed, expand any edit row by clicking its **gray triangle** button. The detailed edit view shows deleted text with red highlights, and added text with green highlights.
 
-![](images/articles/articles-04.png)
+![](/public/images/internal/all_products/content/articles.md/articles-04.png)
 
 ## Create an article
 
@@ -80,7 +80,7 @@ Add the main content of the article. Try copy-pasting existing documents you hav
 
 By default, anyone will be able to edit your article. To change editing permissions, click **Permission settings**.
 
-![](images/articles/articles-05.png)
+![](/public/images/internal/all_products/content/articles.md/articles-05.png)
 
 From the Permissions settings menu that appears, click an option to grant editing permissions to only yourself, yourself and selected users or groups, or all users. Click **Update settings** to save your selection.
 
@@ -98,7 +98,7 @@ Stack Internal Business users can also save a new article as a draft (which is n
 
 In addition to linking to the beginning of an article with its base URL, you can also link directly to headings inside an article. Stack Overflow Internal automatically generates links for article headings (HTML levels H1-H6). You can see these anchor links next to each article heading.
 
-![](images/articles/articles-06.png)
+![](/public/images/internal/all_products/content/articles.md/articles-06.png)
 
 Click any heading to load its link into your browser's address bar. You can then copy and save the resulting URL (with heading link) to link directly to that heading in the article.
 
@@ -112,11 +112,11 @@ Once your article is published, other users can provide feedback to the author a
 
 To mark an article as useful, click the **upvote** button. To provide feedback to the author of the article, click the **pencil and note** (feedback) button.
 
-![](images/articles/articles-07.png)
+![](/public/images/internal/all_products/content/articles.md/articles-07.png)
 
 Clicking the feedback button will show the "Provide feedback" box.
 
-![](images/articles/articles-08.png)
+![](/public/images/internal/all_products/content/articles.md/articles-08.png)
 
 Select the type of feedback you're providing from the following options:
 
@@ -138,11 +138,11 @@ In addition to publishing a new article immediately, you can also save it as a d
 
 To save a new article as a draft, click **Save as draft**.
 
-![](images/articles/articles-09.png)
+![](/public/images/internal/all_products/content/articles.md/articles-09.png)
 
 Draft articles show a "Draft" icon, both in the articles list and on the article edit page.
 
-![](images/articles/articles-10.png)
+![](/public/images/internal/all_products/content/articles.md/articles-10.png)
 
 
 
@@ -152,15 +152,15 @@ Only the author and those with editing permissions can see draft articles in the
 
 You can filter the articles list to show only your drafts by selecting **Your drafts** in the **Permissions** select menu. This view will also show draft articles that other authors have given you permission to edit.
 
-![](images/articles/articles-11.png)
+![](/public/images/internal/all_products/content/articles.md/articles-11.png)
 
 You can continue to revise a draft article by clicking **Edit article**, making your edits, and clicking **Update draft**.
 
-![](images/articles/articles-12.png)
+![](/public/images/internal/all_products/content/articles.md/articles-12.png)
 
 To change permissions while editing a draft article, click **Permission settings**. The Permission settings pop-up menu will appear.
 
-![](images/articles/articles-13.png)
+![](/public/images/internal/all_products/content/articles.md/articles-13.png)
 
 You can choose to grant editing permission to the article's owner only, or the owner plus additional users and/or user groups. If you want to allow additional editors, choose the second option to reveal the **Search by name** box. You can then search for and select users and user groups by name.
 
