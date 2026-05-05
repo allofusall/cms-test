@@ -12,7 +12,7 @@ content:
         label: Description
         type: string
       - name: tags
-        label: Tags (Sentence case, surround multiple tags with square brackets [Like, This])
+        label: Tags (Multiple tags in brackets [Like, This])
         type: string
       - name: applies_to
         Laben: Applies to
