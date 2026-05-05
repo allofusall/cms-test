@@ -13,11 +13,7 @@ layout: xml_freshdesk.liquid
 
 Articles are a stand-alone content type meant for sharing long-form knowledge that doesn't fit well in the Q&A format. Articles show up in search results, and share many other features with questions. You can upvote articles, comment on them, add them to a Collection, and more. 
 
-
-
-Articles are available on Stack Internal Enterprise and Business (not Basic or Free). [Find your plan](https://support.stackenterprise.co/support/solutions/articles/22000294292).
-
-
+> Articles are available on Stack Internal Enterprise and Business (not Basic or Free). [Find your plan](https://support.stackenterprise.co/support/solutions/articles/22000294292).
 
 To view or manage articles, click **Articles** in the left-hand menu.
 
@@ -92,11 +88,7 @@ From the Permissions settings menu that appears, click an option to grant editin
 
 When you’re done editing, click **Publish article** (Stack Internal Business) or **Post article** (Stack Internal Enterprise) to publish your article.
 
-
-
-Stack Internal Business users can also save a new article as a draft (which is not immediately published). See the [Article drafts](#article-drafts-(stack-internal-enterprise-and-business-only)) section below.
-
-
+> Stack Internal Business users can also save a new article as a draft (which is not immediately published). See the [Article drafts](#article-drafts-(stack-internal-enterprise-and-business-only)) section below.
 
 ## Link to sections within articles
 
@@ -148,11 +140,7 @@ Draft articles show a "Draft" icon, both in the articles list and on the article
 
 ![](/public/images/internal/all_products/content/articles.md/articles-10.png)
 
-
-
-Only the author and those with editing permissions can see draft articles in the articles list.
-
-
+> Only the author and those with editing permissions can see draft articles in the articles list.
 
 You can filter the articles list to show only your drafts by selecting **Your drafts** in the **Permissions** select menu. This view will also show draft articles that other authors have given you permission to edit.
 
@@ -178,11 +166,7 @@ When you're ready to publish your draft article, click **Publish article** on th
 
 You can delete an article you've written to make it permanently inaccessible from the site. To delete an article, view the article then click **Edit**. Click **Delete**, and confirm that you wish to delete the article.
 
-
-
-Stack Internal Enterprise users can recover the contents of a deleted article if they know its ID. See the [Recover content from a deleted article](#recover-content-from-a-deleted-article-(stack-internal-enterprise-only)) section below.
-
-
+> Stack Internal Enterprise users can recover the contents of a deleted article if they know its ID. See the [Recover content from a deleted article](#recover-content-from-a-deleted-article-(stack-internal-enterprise-only)) section below.
 
 ## Recover content from a deleted article (Stack Internal Enterprise only)
 
