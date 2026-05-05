@@ -12,7 +12,7 @@ content:
         label: Description
         type: string
       - name: tags
-        label: Tags (surround with square brackets)
+        label: Tags (Sentence case, surround multiple tags with square brackets [Like, This])
         type: string
       - name: applies_to
         Laben: Applies to
@@ -24,7 +24,7 @@ content:
         label: Admin required
         type: boolean
       - name: no_pdf
-        label: No PDF
+        label: No PDF (don't generate PDF)
         type: boolean
       - name: status
         label: Status
