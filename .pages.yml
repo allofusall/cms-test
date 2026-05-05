@@ -15,7 +15,7 @@ content:
         label: "Tags (Multiple tags in brackets: [One, Two])"
         type: string
       - name: applies_to
-        Label: "Applies to (Multiple tiers in brackets: [business, enterprise])"
+        label: "Applies to (Multiple tiers in brackets: [business, enterprise])"
         type: string
       - name: author
         label: Author
