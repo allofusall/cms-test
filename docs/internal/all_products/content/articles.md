@@ -4,7 +4,7 @@ description: All about creating content in long-form, standalone articles.
 tags: "[Articles]"
 applies_to: "[business,enterprise]"
 author: Joel Bradley
-admin_required: false
+admin_required: true
 no_pdf: false
 status: published
 layout: xml_freshdesk.liquid
