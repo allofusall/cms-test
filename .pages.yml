@@ -10,11 +10,11 @@ content:
       - name: description
         type: string
       - name: tags
-        type: text
+        type: string
       - name: applies_to
-        type: text
+        type: string
       - name: author
-        type: text
+        type: string
       - name: admin_required
         type: boolean
       - name: no_pdf
@@ -24,7 +24,7 @@ content:
         options:
           values: [in_progress, draft, published]
       - name: layout
-        type: text
+        type: string
         options:
           default: xml_freshdesk.liquid
       - name: body
