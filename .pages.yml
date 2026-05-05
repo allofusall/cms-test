@@ -1,4 +1,4 @@
-media: public/images # comment?
+media: public/images
 content:
   - name: pages
     label: Pages
@@ -6,25 +6,33 @@ content:
     path: docs
     fields:
       - name: title
-        label: Title (with text)
+        label: Title
         type: string
       - name: description
+        label: Description
         type: string
       - name: tags
+        label: Tags (surround with square brackets)
         type: string
       - name: applies_to
+        Laben: Applies to
         type: string
       - name: author
+        label: Author
         type: string
       - name: admin_required
+        label: Admin required
         type: boolean
       - name: no_pdf
+        label: No PDF
         type: boolean
       - name: status
+        label: Status
         type: select
         options:
           values: [in_progress, draft, published]
       - name: layout
+        label: Layout
         type: string
         options:
           default: xml_freshdesk.liquid
