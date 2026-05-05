@@ -11,7 +11,7 @@ layout: xml_freshdesk.liquid
 ---
 ## Overview
 
-Articles are a stand-alone content type meant for sharing long-form knowledge that doesn't fit well in the Q&A format. Articles show up in search results, and share many other features with questions. You can upvote articles, comment on them, add them to a Collection, and more.
+Articles are a stand-alone content type meant for sharing long-form knowledge that doesn't fit well in the Q&A format. Articles show up in search results, and share many other features with questions. You can upvote articles, comment on them, add them to a Collection, and more. 
 
 
 
