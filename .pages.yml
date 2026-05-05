@@ -1,4 +1,4 @@
-media: public/images
+media: public/images # comment?
 content:
   - name: pages
     label: Pages
@@ -6,6 +6,7 @@ content:
     path: docs
     fields:
       - name: title
+        label: Title (with text)
         type: string
       - name: description
         type: string
