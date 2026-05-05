@@ -26,18 +26,7 @@ The articles page shows a list of articles on your site. You can filter and sort
 - All articles, your articles, or articles you can edit
 - Sort by newest or recently edited
 
-## Search for articles
-
-In addition to the main articles page, users can find articles through regular keyword searches. Searching by tags also includes articles along with questions and answers. Finally, tag summary pages show articles along with questions and answers.
-
 You can use the `is:article` operator in the Search box to restrict a search to articles only. For example: the search "python is:article" will return articles (not questions or answers) that contain the word "python".
-
-You can search for articles by type, by including the type as if it were a tag. For example: the search "python is:article [how-to-guide]" will return articles that contain the word "python" and are of the how-to-guide article type. You can use square brackets to search for these four article types:
-
-- [knowledge-article]
-- [how-to-guide]
-- [announcement]
-- [policy]
 
 ## View an article
 
@@ -45,13 +34,21 @@ When you click on an article to view it, Stack Overflow Internal displays helpfu
 
 ![Article overview](/public/images/internal/all_products/content/articles.md/articles-04.png)
 
-The article view also shows the tags associated with the article and the avatar of the author. If the article's author is a subject matter expert in any of the associated tags, you'll see "Article authored by a subject matter expert in [tag]" above the article title. When you see this line, you'll know the article was written by a user recognized for their knowledge of the topic.
+
+``` javascript
+if (something >= nothing)
+    alert('Yep')
+```
 
 ## Permissions
+
 Admins and moderators have access to Ingestion features by default. Regular users can also access Ingestion features if their reputation exceeds the admin-set threshold.
 
+
 | Permissions | Site role |
-| --- | --- |
-| Admin | - Enable/disable Ingestion<br />- Enable/disable and configure connectors<br />- Manually upload files for Ingestion<br />- Upload files to API endpoint for ngestion<br />- Delete uploaded files and resulting content<br />- Set end user reputation threshold<br />- Review, edit, delete, and publish AI-generated content |
-| Moderator | - Upload files to API endpoint for ingestion<br />- Manually upload files for Ingestion<br />- Review, edit, delete, and publish AI-generated ontent |
-| End user<br />(by reputation threshold) | - Upload files to API endpoint for ingestion<br />- Manually upload files for Ingestion<br />- Review, edit, delete, and publish AI-generated content | 
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Admin | - Enable/disable Ingestion - Enable/disable and configure connectors - Manually upload files for Ingestion - Upload files to API endpoint for ngestion - Delete uploaded files and resulting content - Set end user reputation threshold - Review, edit, delete, and publish AI-generated content |
+| Moderator | - Upload files to API endpoint for ingestion - Manually upload files for Ingestion - Review, edit, delete, and publish AI-generated ontent |
+| End user (by reputation threshold) | - Upload files to API endpoint for ingestion - Manually upload files for Ingestion - Review, edit, delete, and publish AI-generated content |
+
+
