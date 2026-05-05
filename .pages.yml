@@ -12,10 +12,10 @@ content:
         label: Description
         type: string
       - name: tags
-        label: Tags (Multiple tags in brackets [Like, This])
+        label: "Tags (Multiple tags in brackets: [One, Two])"
         type: string
       - name: applies_to
-        Laben: Applies to
+        Label: "Applies to (Multiple tiers in brackets: [business, enterprise])"
         type: string
       - name: author
         label: Author
