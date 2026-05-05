@@ -15,8 +15,6 @@ Articles are a stand-alone content type meant for sharing long-form knowledge th
 
 Articles are available on Stack Internal Enterprise and Business (not Basic or Free). [Find your plan](https://support.stackenterprise.co/support/solutions/articles/22000294292).
 
-
-
 To view or manage articles, click **Articles** in the left-hand menu.
 
 ## The articles page
@@ -53,11 +51,11 @@ The article view also shows the tags associated with the article and the avatar 
 
 Certain users can make changes to articles, and Stack Overflow Internal tracks and records these changes over time. To see edits made to an article, click its **timeline** button.
 
-![](images/articles/articles-02-2.png)
+![](/public/images/internal/all_products/content/articles.md/articles-02-2.png)
 
 The article Timeline page shows the date of each edit, who performed it, and a comment describing the edit. Click **Show vote summaries** to show user voting history along with the article edits; click **Hide vote summaries** to hide voting history.
 
-![](images/articles/articles-03.png)
+![](/public/images/internal/all_products/content/articles.md/articles-03.png)
 
 To see the actual edits performed, expand any edit row by clicking its **gray triangle** button. The detailed edit view shows deleted text with red highlights, and added text with green highlights.
 
