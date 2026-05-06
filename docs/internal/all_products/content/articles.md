@@ -15,7 +15,7 @@ Articles are a stand-alone content type meant for sharing long-form knowledge th
 
 > Articles are available on Stack Internal Enterprise and Business (not Basic or Free). [Find your plan](https://support.stackenterprise.co/support/solutions/articles/22000294292).
 
-To view or manage articles, click **Articles** in the left-hand menu.
+To view or manage articles, click **Articles** in the left-hand menu.<br />
 
 ## The articles page
 
@@ -34,8 +34,7 @@ When you click on an article to view it, Stack Overflow Internal displays helpfu
 
 ![Article overview](/public/images/internal/all_products/content/articles.md/articles-04.png)
 
-
-``` javascript
+```javascript
 if (something >= nothing)
     alert('Yep')
 ```
@@ -46,8 +45,8 @@ Admins and moderators have access to Ingestion features by default. Regular user
 
 
 | Permissions | Site role |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Admin | - Enable/disable Ingestion  - Enable/disable and configure connectors  - Manually upload files for Ingestion  - Upload files to API endpoint for ingestion  - Delete uploaded files and resulting content  - Set end user reputation threshold  - Review, edit, delete, and publish AI-generated content |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Admin | - Enable/disable Ingestion - Enable/disable and configure connectors - Manually upload files for Ingestion - Upload files to API endpoint for ingestion - Delete uploaded files and resulting content - Set end user reputation threshold - Review, edit, delete, and publish AI-generated content |
 | Moderator | - Upload files to API endpoint for ingestion - Manually upload files for Ingestion - Review, edit, delete, and publish AI-generated ontent |
 | End user (by reputation threshold) | - Upload files to API endpoint for ingestion - Manually upload files for Ingestion - Review, edit, delete, and publish AI-generated content |
 
