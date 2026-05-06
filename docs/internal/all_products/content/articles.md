@@ -46,7 +46,7 @@ Admins and moderators have access to Ingestion features by default. Regular user
 
 | Permissions | Site role |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Admin | - Enable/disable Ingestion - Enable/disable and configure connectors - Manually upload files for Ingestion - Upload files to API endpoint for ingestion - Delete uploaded files and resulting content - Set end user reputation threshold - Review, edit, delete, and publish AI-generated content |
+| Admin | - Enable/disable Ingestion<br /> - Enable/disable and configure connectors<br /> - Manually upload files for Ingestion<br /> - Upload files to API endpoint for ingestion<br /> - Delete uploaded files and resulting content<br /> - Set end user reputation threshold<br /> - Review, edit, delete, and publish AI-generated content |
 | Moderator | - Upload files to API endpoint for ingestion - Manually upload files for Ingestion - Review, edit, delete, and publish AI-generated ontent |
 | End user (by reputation threshold) | - Upload files to API endpoint for ingestion - Manually upload files for Ingestion - Review, edit, delete, and publish AI-generated content |
 
