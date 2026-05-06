@@ -13,9 +13,13 @@ layout: xml_freshdesk.liquid
 
 Articles are a stand-alone content type meant for sharing long-form knowledge that doesn't fit well in the Q&A format. Articles show up in search results, and share many other features with questions. You can upvote articles, comment on them, add them to a Collection, and more. 
 
-> Articles are available on Stack Internal Enterprise and Business (not Basic or Free). [Find your plan](https://support.stackenterprise.co/support/solutions/articles/22000294292).
+<div class="s-notice s-notice__info fs-body2">
 
-<div id='hi'>To view or manage articles, click **Articles** in the left-hand menu.</div>
+Articles are available on Stack Internal Enterprise and Business (not Basic or Free). [Find your plan](https://support.stackenterprise.co/support/solutions/articles/22000294292).
+
+</div>
+
+To view or manage articles, click **Articles** in the left-hand menu.
 
 ## The articles page
 
