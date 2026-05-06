@@ -15,7 +15,7 @@ Articles are a stand-alone content type meant for sharing long-form knowledge th
 
 > Articles are available on Stack Internal Enterprise and Business (not Basic or Free). [Find your plan](https://support.stackenterprise.co/support/solutions/articles/22000294292).
 
-To view or manage articles, click **Articles** in the left-hand menu.<br />
+<div id='hi'>To view or manage articles, click **Articles** in the left-hand menu.</div>
 
 ## The articles page
 
