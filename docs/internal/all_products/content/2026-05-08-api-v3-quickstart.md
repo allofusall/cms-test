@@ -50,6 +50,7 @@ To register a new API application:
 ![](/public/images/internal/all_products/content/API_v3_quickstart.md/API_v3_quickstart-05.png)
 
 6. Paste your new Stack Internal API key into the **Token** field.
+  ![](/public/images/internal/all_products/content/API_v3_quickstart.md/API_v3_quickstart-06.png)
 7. Optional: click **Save** if you want to return to this request in the future.
 8. Click **Send** to make the request.
 
