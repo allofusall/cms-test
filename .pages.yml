@@ -37,4 +37,5 @@ content:
         options:
           default: xml_freshdesk.liquid
       - name: body
+        label: Article body
         type: rich-text
