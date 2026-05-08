@@ -30,10 +30,13 @@ To register a new API application:
 
 ![](/public/images/internal/all_products/content/API_v3_quickstart.md/API_v3_quickstart-01.png)
 
-1. Enter a name for your API application in the **Application name** field.
-2. Leave **Domain** blank.
-3. Click **Register API application**.
-4. Copy the **Key** value. This is your API access key. Copy it for use later.
+5. Enter a name for your API application in the **Application name** field.
+6. Leave **Domain** blank.
+7. Click **Register API application**.
+  ![](/public/images/internal/all_products/content/API_v3_quickstart.md/API_v3_quickstart-02.png)
+
+8. Copy the **Key** value. This is your API access key. Copy it for use later.
+  ![](/public/images/internal/all_products/content/API_v3_quickstart.md/API_v3_quickstart-03.png)
 
 ## Use Postman to access the API
 
@@ -41,17 +44,23 @@ To register a new API application:
 2. Add a new request.
 3. Ensure that the request type is **GET.**
 4. To get question data from your Enterprise instance, enter this endpoint URL: ++https://[your_site].stackenterprise.co/api/v3/questions++.
+  ![](/public/images/internal/all_products/content/API_v3_quickstart.md/API_v3_quickstart-04.png)
 5. On the "Authorization" tab for your new request, set **Auth Type** to **Bearer Token**.
+
+![](/public/images/internal/all_products/content/API_v3_quickstart.md/API_v3_quickstart-05.png)
+
 6. Paste your new Stack Internal API key into the **Token** field.
 7. Optional: click **Save** if you want to return to this request in the future.
 8. Click **Send** to make the request.
 
 You should see a list of questions from your Stack Overflow site.
 
-
+![](/public/images/internal/all_products/content/API_v3_quickstart.md/API_v3_quickstart-07.png)
 
 ## Swagger UI API documentation
 
 Your Enterprise site has interactive API documentation using Swagger UI. This documentation gives you information on all the API v3 endpoints, and also lets you make test calls to each endpoint. You can access your site's Swagger UI API interface at ++https://[your_site].stackenterprise.co/api/v3++ (replace [your_site] with your site's subdomain).
+
+![](/public/images/internal/all_products/content/API_v3_quickstart.md/API_v3_quickstart-08.png)
 
 For more information on API v3 and the Swagger UI interactive documentation, read the ++[Stack Overflow Internal API v3](https://support.stackenterprise.co/support/solutions/articles/22000294545)++ article.
